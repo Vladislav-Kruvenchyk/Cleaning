@@ -1,0 +1,17 @@
+@import "~@/assets/styles/variables/variables.scss";
+@import "~@/assets/styles/fonts/fonts.scss";
+@import "~@/assets/styles/switch/switch.scss";
+
+body, html, div, span, h1, p, ul, li, a  {
+    padding: 0;
+    margin: 0 ;
+    outline: none;
+    list-style: none;
+    border: none;
+    list-style: none;
+    text-decoration: none;
+}
+
+.container {
+    max-width: 1440px
+}
